@@ -1,0 +1,30 @@
+#login-form{
+    margin: 300px 700px;
+    padding: 10px;
+    border: 5px solid;
+    border-radius: 10px;
+    box-shadow: 10px 10px #888888;
+}
+
+#registration-form{
+    margin: 200px 700px;
+    padding: 10px;
+    border: 5px solid;
+    border-radius: 10px;
+    box-shadow: 10px 10px #888888;
+}
+
+#user-info{
+    margin: 200px 700px 20px 700px;
+    padding: 10px;
+    border: 5px solid;
+    border-radius: 10px;
+    box-shadow: 10px 10px #888888;
+}
+#card-info{
+    margin: 20px 700px 300px 700px;
+    padding: 10px;
+    border: 5px solid;
+    border-radius: 10px;
+    box-shadow: 10px 10px #888888;
+}
